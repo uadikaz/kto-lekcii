@@ -1,0 +1,15 @@
+/Users/sudzhan/Desktop/obu4alka/semminar/bin/Debug/net6.0/semminar
+/Users/sudzhan/Desktop/obu4alka/semminar/bin/Debug/net6.0/semminar.deps.json
+/Users/sudzhan/Desktop/obu4alka/semminar/bin/Debug/net6.0/semminar.runtimeconfig.json
+/Users/sudzhan/Desktop/obu4alka/semminar/bin/Debug/net6.0/semminar.dll
+/Users/sudzhan/Desktop/obu4alka/semminar/bin/Debug/net6.0/semminar.pdb
+/Users/sudzhan/Desktop/obu4alka/semminar/obj/Debug/net6.0/semminar.csproj.AssemblyReference.cache
+/Users/sudzhan/Desktop/obu4alka/semminar/obj/Debug/net6.0/semminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudzhan/Desktop/obu4alka/semminar/obj/Debug/net6.0/semminar.AssemblyInfoInputs.cache
+/Users/sudzhan/Desktop/obu4alka/semminar/obj/Debug/net6.0/semminar.AssemblyInfo.cs
+/Users/sudzhan/Desktop/obu4alka/semminar/obj/Debug/net6.0/semminar.csproj.CoreCompileInputs.cache
+/Users/sudzhan/Desktop/obu4alka/semminar/obj/Debug/net6.0/semminar.dll
+/Users/sudzhan/Desktop/obu4alka/semminar/obj/Debug/net6.0/refint/semminar.dll
+/Users/sudzhan/Desktop/obu4alka/semminar/obj/Debug/net6.0/semminar.pdb
+/Users/sudzhan/Desktop/obu4alka/semminar/obj/Debug/net6.0/semminar.genruntimeconfig.cache
+/Users/sudzhan/Desktop/obu4alka/semminar/obj/Debug/net6.0/ref/semminar.dll
