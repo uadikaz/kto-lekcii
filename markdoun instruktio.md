@@ -43,3 +43,5 @@ GITHuB - удаленный сервис управления, или хране
 * на сайте GitHUB нажимаем кнопку - pull request
 
 сайт портала для обучения - https://gb.ru
+
+hello vladislav
