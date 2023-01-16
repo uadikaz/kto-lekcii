@@ -1,0 +1,15 @@
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/bin/Debug/net6.0/zada4a 38
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/bin/Debug/net6.0/zada4a 38.deps.json
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/bin/Debug/net6.0/zada4a 38.runtimeconfig.json
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/bin/Debug/net6.0/zada4a 38.dll
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/bin/Debug/net6.0/zada4a 38.pdb
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/obj/Debug/net6.0/zada4a 38.csproj.AssemblyReference.cache
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/obj/Debug/net6.0/zada4a 38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/obj/Debug/net6.0/zada4a 38.AssemblyInfoInputs.cache
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/obj/Debug/net6.0/zada4a 38.AssemblyInfo.cs
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/obj/Debug/net6.0/zada4a 38.csproj.CoreCompileInputs.cache
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/obj/Debug/net6.0/zada4a 38.dll
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/obj/Debug/net6.0/refint/zada4a 38.dll
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/obj/Debug/net6.0/zada4a 38.pdb
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/obj/Debug/net6.0/zada4a 38.genruntimeconfig.cache
+/Users/sudzhan/Desktop/obu4alka/sem5/zada4a 38/obj/Debug/net6.0/ref/zada4a 38.dll
