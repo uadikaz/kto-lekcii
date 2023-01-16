@@ -1,0 +1,15 @@
+/Users/sudzhan/Desktop/obu4alka/kto ti/bin/Debug/net6.0/kto ti
+/Users/sudzhan/Desktop/obu4alka/kto ti/bin/Debug/net6.0/kto ti.deps.json
+/Users/sudzhan/Desktop/obu4alka/kto ti/bin/Debug/net6.0/kto ti.runtimeconfig.json
+/Users/sudzhan/Desktop/obu4alka/kto ti/bin/Debug/net6.0/kto ti.dll
+/Users/sudzhan/Desktop/obu4alka/kto ti/bin/Debug/net6.0/kto ti.pdb
+/Users/sudzhan/Desktop/obu4alka/kto ti/obj/Debug/net6.0/kto ti.csproj.AssemblyReference.cache
+/Users/sudzhan/Desktop/obu4alka/kto ti/obj/Debug/net6.0/kto ti.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudzhan/Desktop/obu4alka/kto ti/obj/Debug/net6.0/kto ti.AssemblyInfoInputs.cache
+/Users/sudzhan/Desktop/obu4alka/kto ti/obj/Debug/net6.0/kto ti.AssemblyInfo.cs
+/Users/sudzhan/Desktop/obu4alka/kto ti/obj/Debug/net6.0/kto ti.csproj.CoreCompileInputs.cache
+/Users/sudzhan/Desktop/obu4alka/kto ti/obj/Debug/net6.0/kto ti.dll
+/Users/sudzhan/Desktop/obu4alka/kto ti/obj/Debug/net6.0/refint/kto ti.dll
+/Users/sudzhan/Desktop/obu4alka/kto ti/obj/Debug/net6.0/kto ti.pdb
+/Users/sudzhan/Desktop/obu4alka/kto ti/obj/Debug/net6.0/kto ti.genruntimeconfig.cache
+/Users/sudzhan/Desktop/obu4alka/kto ti/obj/Debug/net6.0/ref/kto ti.dll

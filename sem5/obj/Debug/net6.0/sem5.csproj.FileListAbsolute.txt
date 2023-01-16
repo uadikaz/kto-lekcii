@@ -1,0 +1,15 @@
+/Users/sudzhan/Desktop/obu4alka/sem5/obj/Debug/net6.0/sem5.csproj.AssemblyReference.cache
+/Users/sudzhan/Desktop/obu4alka/sem5/obj/Debug/net6.0/sem5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudzhan/Desktop/obu4alka/sem5/obj/Debug/net6.0/sem5.AssemblyInfoInputs.cache
+/Users/sudzhan/Desktop/obu4alka/sem5/obj/Debug/net6.0/sem5.AssemblyInfo.cs
+/Users/sudzhan/Desktop/obu4alka/sem5/obj/Debug/net6.0/sem5.csproj.CoreCompileInputs.cache
+/Users/sudzhan/Desktop/obu4alka/sem5/bin/Debug/net6.0/sem5
+/Users/sudzhan/Desktop/obu4alka/sem5/bin/Debug/net6.0/sem5.deps.json
+/Users/sudzhan/Desktop/obu4alka/sem5/bin/Debug/net6.0/sem5.runtimeconfig.json
+/Users/sudzhan/Desktop/obu4alka/sem5/bin/Debug/net6.0/sem5.dll
+/Users/sudzhan/Desktop/obu4alka/sem5/bin/Debug/net6.0/sem5.pdb
+/Users/sudzhan/Desktop/obu4alka/sem5/obj/Debug/net6.0/sem5.dll
+/Users/sudzhan/Desktop/obu4alka/sem5/obj/Debug/net6.0/refint/sem5.dll
+/Users/sudzhan/Desktop/obu4alka/sem5/obj/Debug/net6.0/sem5.pdb
+/Users/sudzhan/Desktop/obu4alka/sem5/obj/Debug/net6.0/sem5.genruntimeconfig.cache
+/Users/sudzhan/Desktop/obu4alka/sem5/obj/Debug/net6.0/ref/sem5.dll

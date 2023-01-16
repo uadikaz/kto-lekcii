@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sudzhan/Desktop/obu4alka/example5/example5.csproj",
-      "projectName": "example5",
-      "projectPath": "/Users/sudzhan/Desktop/obu4alka/example5/example5.csproj",
+      "projectUniqueName": "/Users/sudzhan/Desktop/obu4alka/kto ti/kto ti.csproj",
+      "projectName": "kto ti",
+      "projectPath": "/Users/sudzhan/Desktop/obu4alka/kto ti/kto ti.csproj",
       "packagesPath": "/Users/sudzhan/.nuget/packages/",
-      "outputPath": "/Users/sudzhan/Desktop/obu4alka/example5/obj/",
+      "outputPath": "/Users/sudzhan/Desktop/obu4alka/kto ti/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sudzhan/.nuget/NuGet/NuGet.Config"
