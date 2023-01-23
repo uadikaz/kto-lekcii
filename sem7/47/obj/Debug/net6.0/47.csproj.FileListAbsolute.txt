@@ -1,0 +1,15 @@
+/Users/sudzhan/Desktop/obu4alka/sem7/47/bin/Debug/net6.0/47
+/Users/sudzhan/Desktop/obu4alka/sem7/47/bin/Debug/net6.0/47.deps.json
+/Users/sudzhan/Desktop/obu4alka/sem7/47/bin/Debug/net6.0/47.runtimeconfig.json
+/Users/sudzhan/Desktop/obu4alka/sem7/47/bin/Debug/net6.0/47.dll
+/Users/sudzhan/Desktop/obu4alka/sem7/47/bin/Debug/net6.0/47.pdb
+/Users/sudzhan/Desktop/obu4alka/sem7/47/obj/Debug/net6.0/47.csproj.AssemblyReference.cache
+/Users/sudzhan/Desktop/obu4alka/sem7/47/obj/Debug/net6.0/47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudzhan/Desktop/obu4alka/sem7/47/obj/Debug/net6.0/47.AssemblyInfoInputs.cache
+/Users/sudzhan/Desktop/obu4alka/sem7/47/obj/Debug/net6.0/47.AssemblyInfo.cs
+/Users/sudzhan/Desktop/obu4alka/sem7/47/obj/Debug/net6.0/47.csproj.CoreCompileInputs.cache
+/Users/sudzhan/Desktop/obu4alka/sem7/47/obj/Debug/net6.0/47.dll
+/Users/sudzhan/Desktop/obu4alka/sem7/47/obj/Debug/net6.0/refint/47.dll
+/Users/sudzhan/Desktop/obu4alka/sem7/47/obj/Debug/net6.0/47.pdb
+/Users/sudzhan/Desktop/obu4alka/sem7/47/obj/Debug/net6.0/47.genruntimeconfig.cache
+/Users/sudzhan/Desktop/obu4alka/sem7/47/obj/Debug/net6.0/ref/47.dll
